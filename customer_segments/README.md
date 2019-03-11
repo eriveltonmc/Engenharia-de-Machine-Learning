@@ -1,5 +1,5 @@
 # Projeto 'Customer Segments'
-Projeto orientado de aprendizagem não supervisionada do curso de Engenheiro de Machine Learning.
+Projeto orientado de aprendizagem não supervisionada do curso de Engenheiro de Machine Learning da Udacity.
 
 ## Descrição
 Neste projeto, fiz uma análise num 'dataset' (conjunto de dados) sobre os valores dos gastos anuais de vários clientes de diversas categorias de produtos. Um dos objetivos deste projeto é descrever melhor a variação nos diferentes tipos de clientes com os quais um distribuidor atacadista interage. Fazer isso daria ao distribuidor informações sobre como estruturar melhor seu serviço de entrega para atender às necessidades de cada cliente. O 'dataset' para este projeto pode ser encontrado no Repositório de Aprendizado de Máquina do portal UCI.
