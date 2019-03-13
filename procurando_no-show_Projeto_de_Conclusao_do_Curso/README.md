@@ -29,4 +29,4 @@ Este projeto está dividido, de forma resumida, nas seguintes partes:
 - '**procurando_no-show.ipynb**': códigos de programa na linguagem 'python' para uso na plataforma 'Jupyter Notebook' com descrição técnica em cada passo do projeto.
 - '**2017.csv**': conjunto de dados.
 - '**proposta.pdf**': documento de apresentação de uma proposta para o projeto final.
-- '**relatório.pdf**': documento de apresentação dos resultados de cada etapa do projeto, bem como do modelo final de aprendizado supervisionado.
+- '**relatório.pdf**': documento de apresentação dos desenvolvimentos e resultados de cada etapa do projeto.
