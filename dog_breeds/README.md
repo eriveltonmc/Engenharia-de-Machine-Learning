@@ -1,4 +1,4 @@
-# Projeto 'Dermatologist AI'
+# Projeto 'Dog Breeds'
 Projeto orientado do módulo de Deep Learning do curso de Engenheiro de Machine Learning da Udacity.
 
 ## Descrição
